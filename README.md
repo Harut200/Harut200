@@ -1,6 +1,6 @@
 # Harutyun Kesablyan
 
-**Co-founder @ [BlurredBox](https://github.com/BlurredBox) — rollback-first governance for production ML systems.**
+**Co-founder at [BlurredBox](https://github.com/BlurredBox) — rollback-first governance for production ML systems.**
 16 years old. Yerevan, Armenia 🇦🇲
 
 I build infrastructure that assumes failure: systems that predict model degradation before it lands, and roll back in milliseconds when it does.
