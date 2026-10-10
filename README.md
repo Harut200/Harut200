@@ -19,13 +19,13 @@ I build infrastructure that assumes failure: systems that predict model degradat
 ### What I'm building
 
 **BlurredBox AGD** *(private repos, main body of work)*
-ML governance platform: a GRU-based failure predictor, PSI drift forecasting, and a C enforcement daemon executing autonomous rollback. **280,000+ lines** across Python, C, JavaScript, and shell — built by two founders with zero outside capital. 🥇 1st place, NUACA/LISS24 Erasmus+ competition · 🥈 2nd internationally, LISS24 Tbilisi · Finalist(top 10), Seaside Startup Summit.
+ML governance platform: a GRU-based failure predictor, PSI drift forecasting, and a C enforcement daemon executing autonomous rollback. **280,000+ lines** across Python, C, JavaScript, and more, built by two founders with zero outside capital. 🥇 1st place, NUACA/LISS24 Erasmus+ competition · 🥈 2nd internationally, LISS24 Tbilisi · Finalist(top 10), Seaside Startup Summit.
 
 **[SagaMind](https://github.com/Harut200/SagaMind)** *(open source, MIT)*
 A transaction-safe multi-agent runtime: Z3 SMT formal verification gates every agent action, Saga-pattern LIFO compensation rolls back failed workflows, and Ebbinghaus-curve memory decay with DBSCAN "sleep cycle" consolidation keeps agent context sane. The thesis: an agent's intelligence should be bounded by what it can prove, not what it can generate.
 
 **[LINEAR-ALGEBRA_NUMPY](https://github.com/Harut200/LINEAR-ALGEBRA_NUMPY)**
-Core linear algebra from scratch in NumPy — eigenvalue methods, PCA, LU/QR decompositions, Gram-Schmidt. Built to understand the math, not import it.
+Core linear algebra from scratch in NumPy; eigenvalue methods, PCA, LU/QR decompositions, Gram-Schmidt. Built to understand the math, not import it.
 
 ---
 
