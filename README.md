@@ -1,6 +1,6 @@
 # Harutyun Kesablyan
 
-**Co-founder at [BlurredBox](https://github.com/BlurredBox) — rollback-first governance for production ML systems.**
+**Co-founder at [BlurredBox](https://github.com/BlurredBox) rollback-first governance for production ML systems.**
 17 years old. Yerevan, Armenia 🇦🇲
 
 I build infrastructure that assumes failure: systems that predict model degradation before it lands, and roll back in milliseconds when it does.
@@ -18,8 +18,8 @@ I build infrastructure that assumes failure: systems that predict model degradat
 
 ### What I'm building
 
-**BlurredBox AGD** *(private repos — main body of work)*
-ML governance platform: a GRU-based failure predictor, PSI drift forecasting, and a C enforcement daemon executing autonomous rollback over ZeroMQ in under 5 ms. **153,000+ lines** across Python, C, JavaScript, and shell — built by two founders with zero outside capital. 🥇 1st place, NUACA/LISS24 Erasmus+ competition · 🥈 2nd internationally, LISS24 Tbilisi.
+**BlurredBox AGD** *(private repos, main body of work)*
+ML governance platform: a GRU-based failure predictor, PSI drift forecasting, and a C enforcement daemon executing autonomous rollback. **280,000+ lines** across Python, C, JavaScript, and shell — built by two founders with zero outside capital. 🥇 1st place, NUACA/LISS24 Erasmus+ competition · 🥈 2nd internationally, LISS24 Tbilisi · Finalist, Seaside Startup Summit.
 
 **[SagaMind](https://github.com/Harut200/SagaMind)** *(open source, MIT)*
 A transaction-safe multi-agent runtime: Z3 SMT formal verification gates every agent action, Saga-pattern LIFO compensation rolls back failed workflows, and Ebbinghaus-curve memory decay with DBSCAN "sleep cycle" consolidation keeps agent context sane. The thesis: an agent's intelligence should be bounded by what it can prove, not what it can generate.
@@ -41,4 +41,4 @@ I write about MLOps, formal methods, and AI agents on **[Medium](https://kesably
 
 > Most of my work lives in private repositories under the BlurredBox organization. SagaMind is the public sample of how I think about building systems.
 
-📫 Reach me via [Medium](https://kesablyanharut.medium.com) or the BlurredBox org.
+Reach me via [Medium](https://kesablyanharut.medium.com) or the BlurredBox org.
