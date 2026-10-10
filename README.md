@@ -31,7 +31,7 @@ Core linear algebra from scratch in NumPy; eigenvalue methods, PCA, LU/QR decomp
 
 ### Writing
 
-I write about MLOps, formal methods, and AI agents on **[Medium](https://kesablyanharut.medium.com)** — including deep dives on predictive rollback architecture and SMT-verified agent runtimes.
+I write about MLOps, formal methods, and AI agents on **[Medium](https://kesablyanharut.medium.com)** including deep dives on predictive rollback architecture and SMT-verified agent runtimes.
 
 ### Background
 
